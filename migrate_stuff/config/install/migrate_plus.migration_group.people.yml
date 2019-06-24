@@ -1,0 +1,9 @@
+id: people
+label: JSON People
+description: migration of persons as Drupal users
+source_type: json data
+dependencies:
+  enforced:
+    module:
+      - migrate_stuff
+      - migrate_plus

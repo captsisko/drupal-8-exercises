@@ -1,0 +1,7 @@
+name: Migrate stuff
+description: Migrating a bunch of stuff just for the fun of it!
+core: 8.x
+package: sisko
+type: module
+dependencies:
+  - migrate
